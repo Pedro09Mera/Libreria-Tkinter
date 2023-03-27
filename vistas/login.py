@@ -50,7 +50,7 @@ class Login:
         self.marco.config(bd=500)
         self.marco.config(relief="groove")
 
-
+#fgvbdfh
     def getLabels(self):
         eti1 = Label(self.ventana,fg="black",bg="white",text="ID_USUARIO",
                      font=("Arial",18)).place(x=40,y=300)
@@ -127,4 +127,6 @@ class Login:
 
 
 obj=Login()
+
+#Hola a todoss putos xd
 
